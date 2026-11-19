@@ -1,0 +1,15 @@
+{
+ "app": "gold-book",
+ "version": "0.1.1",
+ "electron": "45.2.2",
+ "date": "2026-11-19",
+ "asar": {
+  "file": "app.asar",
+  "size": 2224750,
+  "sha256": "91622dd20d32553a1cc51c9c848881db11c99c2342f0975c9da4ca9302821d79"
+ },
+ "notes": {
+  "en": "Two numbers for every worker and shop: a contact number and a WhatsApp number (WhatsApp messages go to the WhatsApp number). Change numbers on each ledger. Updates now come through GitHub by themselves - a backup of your books is saved first.",
+  "ta": "ஒவ்வொரு தொழிலாளிக்கும் கடைக்கும் இரண்டு எண்கள்: தொடர்பு எண், WhatsApp எண் (WhatsApp செய்திகள் WhatsApp எண்ணுக்குப் போகும்). ஒவ்வொரு கணக்கிலும் எண்களை மாற்றலாம். இனி புதுப்பிப்புகள் GitHub வழியாகத் தானாக வரும் - முதலில் உங்கள் கணக்குகளின் backup சேமிக்கப்படும்."
+ }
+}
