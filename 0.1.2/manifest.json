@@ -1,0 +1,15 @@
+{
+ "app": "gold-book",
+ "version": "0.1.2",
+ "electron": "45.2.2",
+ "date": "2026-11-19",
+ "asar": {
+  "file": "app.asar",
+  "size": 2226041,
+  "sha256": "0ac42978b5dc7bbaa11ebb92ab76aab202f59b0bb01d166e68b19ef289b17c0f"
+ },
+ "notes": {
+  "en": "Money received from a shop: two new choices - Making charge (cash) and Making charge (RTGS). This money settles the making charge the shop owes; it is never turned into gold.",
+  "ta": "கடையிலிருந்து பணம் பெற்றது: இரண்டு புதிய தேர்வுகள் - செய்கூலி (ரொக்கம்), செய்கூலி (RTGS). இந்தப் பணம் கடை தர வேண்டிய செய்கூலியைக் கழிக்கும்; தங்கமாக மாற்றப்படாது."
+ }
+}
