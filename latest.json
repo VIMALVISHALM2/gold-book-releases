@@ -1,15 +1,15 @@
 {
  "app": "gold-book",
- "version": "0.1.2",
+ "version": "0.1.3",
  "electron": "45.2.2",
- "date": "2026-11-19",
+ "date": "2026-11-20",
  "asar": {
   "file": "app.asar",
-  "size": 2226041,
-  "sha256": "0ac42978b5dc7bbaa11ebb92ab76aab202f59b0bb01d166e68b19ef289b17c0f"
+  "size": 2317486,
+  "sha256": "6437d83ee39b75ddfdbade73048fa1a34e1148554e9ff0bbdeecc487e5726ff8"
  },
  "notes": {
-  "en": "Money received from a shop: two new choices - Making charge (cash) and Making charge (RTGS). This money settles the making charge the shop owes; it is never turned into gold.",
-  "ta": "கடையிலிருந்து பணம் பெற்றது: இரண்டு புதிய தேர்வுகள் - செய்கூலி (ரொக்கம்), செய்கூலி (RTGS). இந்தப் பணம் கடை தர வேண்டிய செய்கூலியைக் கழிக்கும்; தங்கமாக மாற்றப்படாது."
+  "en": "Safety release. Every entry, every worker and shop, and every line of the change history now carries a seal: each time you open the books, Gold Book checks that nothing was changed outside the app (\"Books checked\"). If something was, a red band names it - it never stops your work. Your books are sealed the first time you open this version. Backups are now read back and checked after saving, Backup -> Check a backup opens one with its own password to prove it works, and a reminder comes after 7 days without a backup (keep two pen drives in turn, one away from the shop). You can print the recovery code on paper. A strength bar shows how strong a new password is. Copied text leaves the clipboard after 60 seconds. Screens tidied: the worker and shop lists line up, a ledger fits without sideways scrolling, and the title shows today's date.",
+  "ta": "பாதுகாப்புப் பதிப்பு. ஒவ்வொரு பதிவும், ஒவ்வொரு தொழிலாளியும் கடையும், மாற்ற வரலாற்றின் ஒவ்வொரு வரியும் இனி முத்திரையுடன் இருக்கும்: கணக்குகளைத் திறக்கும் ஒவ்வொரு முறையும் app-க்கு வெளியே எதுவும் மாற்றப்படவில்லை என்று Gold Book சரிபார்க்கும் (\"கணக்குகள் சரிபார்க்கப்பட்டன\"). ஏதாவது மாற்றப்பட்டிருந்தால், ஒரு சிவப்புப் பட்டை அதைச் சொல்லும் - உங்கள் வேலை நிற்காது. இந்தப் பதிப்பில் முதல் முறை திறக்கும் போது உங்கள் கணக்குகளுக்கு முத்திரை இடப்படும். Backup சேமித்த பிறகு திரும்பப் படித்துச் சரிபார்க்கப்படும்; காப்பு நகல் -> ஒரு backup-ஐச் சரிபார் - அதன் சொந்தக் கடவுச்சொல்லால் திறந்து அது வேலை செய்கிறது என்று காட்டும்; 7 நாட்கள் backup இல்லையென்றால் நினைவூட்டல் வரும் (இரண்டு pen drive-களை மாற்றி மாற்றி வையுங்கள், ஒன்று கடைக்கு வெளியே). மீட்புக் குறியீட்டைக் காகிதத்தில் அச்சிடலாம். புதிய கடவுச்சொல் எவ்வளவு வலுவானது என்று ஒரு பட்டை காட்டும். Copy செய்த உரை 60 வினாடிகளில் clipboard-இலிருந்து அழிக்கப்படும். திரைகள் சீரமைக்கப்பட்டன: தொழிலாளர், கடை பட்டியல்கள் வரிசையாக நிற்கும்; கணக்குப் பக்கம் பக்கவாட்டில் நகர்த்தாமல் திரையில் பொருந்தும்; தலைப்பில் இன்றைய தேதி வரும்."
  }
 }
