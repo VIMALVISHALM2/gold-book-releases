@@ -1,0 +1,15 @@
+{
+ "app": "gold-book",
+ "version": "0.1.6",
+ "electron": "45.2.2",
+ "date": "2026-11-21",
+ "asar": {
+  "file": "app.asar",
+  "size": 2348999,
+  "sha256": "ac56c3c7fd588c591b829a9313467f260fd89ee88ac215fdd99bb129fc9a0062"
+ },
+ "notes": {
+  "en": "The 999 bar now has three purity buttons under its purity box: 99.5, 99.99 and 100. A new 999 bar starts at 100 - the weight is counted as pure gold as it is (a 50 g bar = 50 g). Press 99.99 or 99.5 when that is the purity, or type any other purity yourself. Entries you already saved are not changed.",
+  "ta": "999 கட்டிக்கு இப்போது தரம் பெட்டியின் கீழ் மூன்று பொத்தான்கள்: 99.5, 99.99, 100. புதிய 999 கட்டி 100-இல் தொடங்கும் - எடையே சுத்தத் தங்கமாகக் கணக்கு (50 கிராம் கட்டி = 50 கிராம்). தரம் 99.99 அல்லது 99.5 என்றால் அந்தப் பொத்தானை அழுத்துங்கள், அல்லது வேறு தரத்தை நீங்களே போடுங்கள். ஏற்கனவே சேமித்த பதிவுகள் மாறாது."
+ }
+}
