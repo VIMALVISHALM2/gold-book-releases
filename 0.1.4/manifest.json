@@ -1,0 +1,15 @@
+{
+ "app": "gold-book",
+ "version": "0.1.4",
+ "electron": "45.2.2",
+ "date": "2026-11-21",
+ "asar": {
+  "file": "app.asar",
+  "size": 2345551,
+  "sha256": "d55814ee5019c3e7381b63c72f5a0349f3bfa6f560e4cfca441083b9a944080c"
+ },
+ "notes": {
+  "en": "Items received from a worker: a new Seal box for the shop whose seal is on the pieces (your shop names come up as you type). Purity buttons under the purity box - 75 (18K), 83.3 (20K), 91.6 (22K / 916), 92 and 99.9 (24K): press one, or type any purity yourself. Items received now starts at 92. Wastage can be typed in % or in grams: press % or grams beside the wastage box; with grams, choose A (the grams are pure gold) or B (the grams are the same gold as the piece). Stone charges, right above Making, for all the pieces (Total) or for each piece (Per piece) - added to the money like the making charge. A Notes box at the bottom of every new entry: for you only, never sent on WhatsApp. A shop's gold held with us is now called Excess. The safety check is now called the book check, so Seal always means the shop's seal.",
+  "ta": "தொழிலாளரிடமிருந்து நகை வந்தது: நகைகளில் முத்திரை உள்ள கடையின் பெயருக்கு ஒரு புதிய முத்திரை பெட்டி (தட்டச்சு செய்யும் போது உங்கள் கடைப் பெயர்கள் வரும்). தரம் பெட்டிக்குக் கீழே தர பொத்தான்கள் - 75 (18 காரட்), 83.3 (20 காரட்), 91.6 (22 காரட் / 916), 92, 99.9 (24 காரட்): ஒன்றை அழுத்துங்கள், அல்லது எந்தத் தரத்தையும் நீங்களே போடுங்கள். நகை வந்தது இனி 92-இல் தொடங்கும். சேதாரத்தை % ஆகவோ கிராம் ஆகவோ போடலாம்: சேதாரப் பெட்டியின் அருகில் % அல்லது கிராம் அழுத்துங்கள்; கிராம் என்றால் A (கிராம் சுத்தத் தங்கமாக) அல்லது B (கிராம் நகையின் அதே தங்கமாக) தேர்ந்தெடுங்கள். கூலிக்கு நேர் மேலே கல் கூலி - எல்லா நகைகளுக்கும் சேர்த்து (மொத்தம்) அல்லது ஒவ்வொரு நகைக்கும் (ஒன்றுக்கு); கூலியைப் போலவே பணத்தில் சேரும். ஒவ்வொரு புதிய பதிவின் கடைசியில் குறிப்பு பெட்டி: உங்களுக்கு மட்டும், WhatsApp-இல் போகாது. கடையின் தங்கம் நம்மிடம் இருப்பது இனி கூடுதல் (Excess) என்று சொல்லப்படும். பாதுகாப்புச் சோதனை இனி கணக்குச் சரிபார்ப்பு என்று அழைக்கப்படும் - முத்திரை என்றால் எப்போதும் கடையின் முத்திரை தான்."
+ }
+}
