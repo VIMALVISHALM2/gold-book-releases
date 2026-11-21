@@ -1,0 +1,15 @@
+{
+ "app": "gold-book",
+ "version": "0.1.5",
+ "electron": "45.2.2",
+ "date": "2026-11-21",
+ "asar": {
+  "file": "app.asar",
+  "size": 2347281,
+  "sha256": "4fb64ab3706a7d7c5c2c64a9fd84d0bd826b7a067c6f7e45ebefb776a578291c"
+ },
+ "notes": {
+  "en": "A safety fix. Text Gold Book copies for you (a WhatsApp message) is now really taken off the clipboard after 60 seconds, and when Gold Book locks or closes - only if it is still the text Gold Book copied. Before this, it stayed on the clipboard. Nothing else changes; your book is not touched.",
+  "ta": "ஒரு பாதுகாப்புத் திருத்தம். Gold Book உங்களுக்காக copy செய்யும் உரை (WhatsApp செய்தி) இனி 60 வினாடிகளில், Gold Book பூட்டும்போதும் மூடும்போதும் clipboard-இலிருந்து உண்மையாக அழிக்கப்படும் - அது இன்னும் Gold Book copy செய்த உரையாக இருந்தால் மட்டும். இதற்கு முன் அது clipboard-இலேயே இருந்தது. வேறு எதுவும் மாறவில்லை; உங்கள் கணக்கு தொடப்படவில்லை."
+ }
+}
