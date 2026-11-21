@@ -1,0 +1,15 @@
+{
+ "app": "gold-book",
+ "version": "0.1.7",
+ "electron": "45.2.2",
+ "date": "2026-11-21",
+ "asar": {
+  "file": "app.asar",
+  "size": 2356665,
+  "sha256": "d0439cb990060f9b7e399bd1838ad09e2f115c362d7bbdf0fd9ef826b65159e2"
+ },
+ "notes": {
+  "en": "Wastage % now works your way: net weight x wastage % = the wastage in grams; add it to the net weight; then x purity = pure gold (20 g x 5% = 1 g, 20 + 1 = 21 g, 21 g x 91.85% = 19.289 g). The same for a shop's Items given. The result box shows the working step by step (1, 2, 3), and so do the open ledger row and WhatsApp. Touch, and wastage in grams, work as before. Entries you already saved are not changed.",
+  "ta": "சேதாரம் % இப்போது உங்கள் முறைப்படி: நிகர எடை x சேதாரம் % = சேதாரம் கிராம்; அதை நிகர எடையுடன் கூட்டுங்கள்; பிறகு x தரம் = சுத்தத் தங்கம் (20 கி x 5% = 1 கி, 20 + 1 = 21 கி, 21 கி x 91.85% = 19.289 கி). கடைக்குக் கொடுத்த நகைக்கும் இதே முறை. முடிவுப் பெட்டியில் கணக்கு படிப்படியாக (1, 2, 3) தெரியும்; கணக்குப் புத்தக வரியிலும் WhatsApp-இலும் அப்படியே. டச், கிராமில் சேதாரம் முன்பு போலவே. ஏற்கனவே சேமித்த பதிவுகள் மாறாது."
+ }
+}
