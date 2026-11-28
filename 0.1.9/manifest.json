@@ -1,0 +1,15 @@
+{
+ "app": "gold-book",
+ "version": "0.1.9",
+ "electron": "45.2.2",
+ "date": "2026-11-28",
+ "asar": {
+  "file": "app.asar",
+  "size": 2377019,
+  "sha256": "c982e956308bf86587d86de1368451b56e9b69cda9828e6d5100a2c93e5c940e"
+ },
+ "notes": {
+  "en": "Settings - Updates: when you already have the newest Gold Book, pressing Check now ends with \"This is the newest version.\" in green - it no longer stays on \"Checking…\". \"Last checked\" now shows this computer's time (before, it showed a time 5 hours 30 minutes behind: 10:50 read 05:20). If Gold Book checks by itself while Settings is open, the card now shows that check and its answer too. Nothing else changes; your books are not touched.",
+  "ta": "அமைப்புகள் - புதுப்பிப்புகள்: உங்களிடம் ஏற்கனவே புதிய Gold Book இருந்தால், \"இப்போது பார்\" அழுத்திய பின் \"இது தான் புதிய பதிப்பு.\" என்று பச்சை நிறத்தில் காட்டும் - இனி \"பார்க்கிறது…\" என்றே நின்றுவிடாது. \"கடைசியாகப் பார்த்தது\" இனி இந்தக் கணினியின் நேரத்தைக் காட்டும் (முன்பு 5 மணி 30 நிமிடம் பின்னால் உள்ள நேரம் காட்டியது: 10:50 என்பது 05:20 என்று வந்தது). அமைப்புகள் திறந்திருக்கும் போது Gold Book தானாகப் பார்த்தாலும், அந்தப் பார்வையும் அதன் பதிலும் இனி அங்கேயே தெரியும். வேறு எதுவும் மாறவில்லை; உங்கள் கணக்குகள் தொடப்படவில்லை."
+ }
+}
